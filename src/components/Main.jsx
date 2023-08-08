@@ -1,9 +1,6 @@
 import React from 'react'
 import classes from './modules/Main.module.css'
-import Navbar from './Navabr'
-import Nav from "./Nav";
-import { Canvas } from '@react-three/fiber'
-import { MeshDistortMaterial, OrbitControls, Sphere} from '@react-three/drei'
+
 import lottie from '/heroanimation.json'
 import Lottie from "lottie-react";
 import 'animate.css';
