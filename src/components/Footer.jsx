@@ -7,11 +7,11 @@ function Footer() {
        <div className={classes.inner}>
 
       <div className={classes.footerItem}>
-      <img className={classes.icon}  src="/gh.png" alt="github--v1"/>
+      <img className={classes.icon}  src="./images/gh.png" alt="github--v1"/>
       <a href='https://github.com/aozzy' target="_blank">https://github.com/aozzy</a>
       </div>
       <div className={classes.footerItem}>
-      <img className={classes.icon}  src="/ln.png" alt="linkedin"/>     
+      <img className={classes.icon}  src="./images/ln.png" alt="linkedin"/>     
       <a href='https://linkedin.com/in/abdi-osman-000' target="_blank">www.linkedin.com/in/abdi-osman-000</a>
       </div>
        </div>
