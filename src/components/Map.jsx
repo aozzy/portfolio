@@ -19,7 +19,7 @@ const Map = () => {
      style={{width:"100%",height:'100%'}}
     >
       <Geographies
-        geography="/data.json"
+        geography="./data/data.json"
         fill="#45EBA5"
         //* change background color of map above 
         stroke="#000"
