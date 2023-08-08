@@ -2,7 +2,7 @@ import React , {useState} from 'react'
 import classes from './modules/About.module.css'
 import Lottie from "lottie-react";
 import lottie from '/about.json'
-import js from '/javascript.json'
+import js from '/public/javascript.json'
 import react from '/react.json'
 import pyhton from '/python.json'
 import github from '/github.json'
