@@ -17,10 +17,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .container{
-  /* margin-top: 10px; */
-  /* height: 100%; */
-  /* scroll-snap-align: center; */
-  /* width: 1600px; */
+ 
   display: flex;
   justify-content: space-between;
   
@@ -93,36 +90,7 @@ color: #45EBA5;
   color: #45EBA5;
 }
 
-/* .heroImage{
-  width: 600px;
-  height: 400px;
-  border-radius: 50%;
-  object-fit: contain;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-  animation: animate 2s infinite ease alternate;
-} */
 
-/* @keyframes animate{
-  100%{
-    transform: translateY(20px);
-
-  }
-} */
-
-/* .btn{
-  padding: 10px;
-
-  width: 30%;
-  border: none;
-  border-radius: 5px;
-  background-color: #45EBA5;
-  color: #000;
-  cursor:pointer;
-} */
 .btn{
   padding: 10px;
   width: 30%;
@@ -219,28 +187,24 @@ color: #45EBA5;
   width: 300px;
   height: 200px;
 }
-.right{
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
-}
+
 .lotty{
-  /* height:  60%; */
+  
   margin: 0 auto;
 }
-/* .image{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
+
 }
 
 @media only screen and (max-width:500px){
+  .btn{
+  font-size: 12px;
+ 
+  }
   .lotty{
     height: 50%;
   }
   .hero{
-    height: 95vh;
+    height: 110vh;
   }
   .title{
     font-size: 40px;
