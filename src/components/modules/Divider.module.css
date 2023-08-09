@@ -41,3 +41,11 @@
     background-position: 0 0;
   }
 }
+
+
+
+@media only screen and (max-width:500px){
+  .divider{
+    display: none;
+  }
+}
