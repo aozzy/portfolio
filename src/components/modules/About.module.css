@@ -312,6 +312,7 @@ margin-right: 10px;
 @media only screen and (max-width:500px){
   .section{
     height: 190vh;
+    margin-bottom: 200px;
   }
   .description{
 
