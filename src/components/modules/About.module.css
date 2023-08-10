@@ -311,11 +311,11 @@ margin-right: 10px;
 
 @media only screen and (max-width:500px){
   .section{
-    height: 190vh;
+    height: 200vh;
     margin-bottom: 200px;
   }
-  .description{
-
+  .container{
+    margin-bottom: 200px;
   }
   .lotty{
    width: 90%;
@@ -326,9 +326,7 @@ margin-right: 10px;
   .title{
     font-size: 40px;
   }
-  .serviceListItem{
-    /* font-size: 12px; */
-  }
+  
   .heading{
     font-size: 25px;
   }
