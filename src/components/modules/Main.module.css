@@ -235,9 +235,15 @@ color: #45EBA5;
   width: 52%;
   height: 52%;
 }
-@-moz-document url-prefix(){
-  .hero{
-    height: 250vh;
-  }
+
 }
+
+
+@media only screen and (max-width:395px){
+  @-moz-document url-prefix(){
+    .hero{
+      height: 280vh;
+      margin-bottom: 200px;
+    }
+  }
 }
