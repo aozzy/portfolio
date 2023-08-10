@@ -237,7 +237,7 @@ color: #45EBA5;
 }
 @-moz-document url-prefix(){
   .hero{
-    height: 180vh;
+    height: 250vh;
   }
 }
 }
