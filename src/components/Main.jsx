@@ -18,22 +18,14 @@ export default function Main() {
           <a className={classes.btn} href='https://linkedin.com/in/abdi-osman-000' target="_blank">Learn More</a>
         </div>
         <div className={classes.right}>
-        {/* <Canvas> //* to increase zoom change the fov
-  
-  <OrbitControls enableZoom={false} autoRotate/>
-  <ambientLight intensity={2}/>
-  <directionalLight position={[1,1,1]}/>
-<Sphere args={[1,100,200]} scale={2.5}>
-<MeshDistortMaterial color='#E94560' attach='material' distort={0.5} speed={2}/>
-</Sphere>
-</Canvas> */}
+       
           <div className={classes.image}>
             
 
            <Lottie loop={false} animationData={lottie}  className={classes.lotty} style={{width:'840px'}}/>
           
            
-          {/* <img className={classes.heroImage} src="./images/place-holder.jpeg" alt="" /> */}
+          
           </div>
         </div>
       </div>
@@ -42,4 +34,3 @@ export default function Main() {
     
   )
 }
-//* set loop to true if you want to continously play the animation on line 33
