@@ -225,12 +225,3 @@ color: #45EBA5;
 }
 
 
-/* @media only screen and (max-width:397px){
-  @-moz-document url-prefix(){
-    .hero{
-      height: 320vh;
-      margin-bottom: 200px;
-      
-    }
-  }
-} */

@@ -27,7 +27,7 @@ a City and Guilds Principles of coding certification. I was also able to apply m
 previously gained skills in Software engineering to mentor the junior developers. I
 improved upon my fundamental skills in HTML CSS and JavaScript as well as
 picking up new skills like Unreal Engine 5 and work on a project for Sony PlayStation.
-   <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/education/" target='_blank'>Click here to read more</a> 
+   <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
         
@@ -42,7 +42,7 @@ picking up new skills like Unreal Engine 5 and work on a project for Sony PlaySt
     <p>
    I completed the following Udemy courses: The complete JavaScript course 20222, 100 days of Python, React the complete guide,
    The Web Developer Bootcamp 2022.<br/>
-   <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+   <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p> 
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -58,7 +58,7 @@ IT Support Engineer, Contract</h3>
     <h4 className="vertical-timeline-element-subtitle">Medpace, London</h4>
     <p>
       Supporting a base of 400 users in the London office, Providing 1st & 2nd Line Support.
-      <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+      <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
    <VerticalTimelineElement
@@ -73,7 +73,7 @@ IT Support Engineer, Contract</h3>
     <h4 className="vertical-timeline-element-subtitle">General Assembly, London</h4>
     <p>
     During the 12 week Software Engineering Immersive course I learned about the fundamentals of web development, the Creation of full-stack applications.
-   <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+   <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
   
@@ -87,7 +87,7 @@ IT Support Engineer, Contract</h3>
     <h4 className="vertical-timeline-element-subtitle">Wavex, London</h4>
     <p>
     Providing desketop support & Ad-Hoc infrastructure support and bespoke infrastructure checks for Wavex clients at Wavex HQ and at the client’s site, with a user base of over 2000 users across the professional services industry.
-    <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+    <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -101,7 +101,7 @@ IT Support Engineer, Contract</h3>
     <p>
 Working within an ISO27001 environment proving high quality IT & Infrastructure support to Wavex clients.
 Ability to work effectively with minimal supervision and the ability to prioritise tasks.
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -115,7 +115,7 @@ Ability to work effectively with minimal supervision and the ability to prioriti
     <p>
     Providing 3rd & 2nd Line Support to a user base of 250 users, Working in a team of two.
 Administration and maintenance of all IT infrastructure, Supporting Windows Server 2003 R2. 
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -130,7 +130,7 @@ Administration and maintenance of all IT infrastructure, Supporting Windows Serv
 Providing 2nd Line support to a user base of 400 users, Desk side phone and remote support.
 Taking ownership of tickets escalated from 1st line support, also participating in 3rd line projects.
 
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -145,7 +145,7 @@ Taking ownership of tickets escalated from 1st line support, also participating 
 Working in a team of four rolling out 0365 to a user base of 1600
 Installing Office 2016 on windows 7/10 and OSX devices.
 Ensuring all previous versions of office has been uninstalled off every device.
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -160,7 +160,7 @@ Ensuring all previous versions of office has been uninstalled off every device.
 Providing Technical support to a user base of over 3500 staff and Research students.
 Ensuring deskside, phone and AV support across all LSBU Southbank sites.
 
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
     </p>
   </VerticalTimelineElement>
   
@@ -176,7 +176,7 @@ Ensuring deskside, phone and AV support across all LSBU Southbank sites.
 Imaging and building 2000+ laptops and desktop machines as part of a rollout project.
 Configuring Lenovo Yoga’s 260 and Dell Latitude E5270 Laptops for staff in the UK France Germany Spain the Netherlands Belgium Switzerland Italy Portugal Romania and the US.
 
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
       </p>
     </VerticalTimelineElement>
   
@@ -193,7 +193,7 @@ Configuring Lenovo Yoga’s 260 and Dell Latitude E5270 Laptops for staff in the
       <p>
       •Working within a team of 8 supporting a user base of 4000 users.
 Providing 1st / 2nd line resolutions where applicable and logging calls via the Service Now system and assigning tickets to the relevant teams.
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
       </p>
     </VerticalTimelineElement>
     <VerticalTimelineElement
@@ -208,7 +208,7 @@ Providing 1st / 2nd line resolutions where applicable and logging calls via the 
 Working in a Team of 3 providing deskside and phone support to over 400 users.
 Creating network accounts for new joiners using Active Directory and MS Exchange.
 Logging and Resolving Tickets through the Altiris ticking system and the Cherwell system. 
-<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+<br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
 
       </p>
     </VerticalTimelineElement>
@@ -225,7 +225,7 @@ Logging and Resolving Tickets through the Altiris ticking system and the Cherwel
 Imaging and configuring laptops and desktops using LANDesk. 
  Configuring Macs and installing requested software for users. Re-imaging and software installation of rebuilds.
  
- <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000/details/experience/" target='_blank'>Click here to read more</a> 
+ <br/> <a className={classes.link} href="https://www.linkedin.com/in/abdi-osman-000" target='_blank'>Click here to read more</a> 
 
       </p>
     </VerticalTimelineElement>
