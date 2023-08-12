@@ -1,5 +1,5 @@
 .hero{
-  
+ 
 display: flex;
 align-items: center;
 justify-content: space-between;
@@ -8,7 +8,7 @@ color: white;
 font-family: 'Open Sans', sans-serif;
 
  margin-bottom: 150px;
- 
+
   background-color: #000;
  background-size: cover;  
 
@@ -106,12 +106,7 @@ color: #45EBA5;
   color: #000;
  
 }
-.vertical-timeline-element--education{
 
-}
-.vertical-timeline-element-content .vertical-timeline-element-date{
-  color: #45EBA5;
-}
 @media only screen and (max-width:1300px){
   .title{
     font-size: 50px;
@@ -132,7 +127,7 @@ color: #45EBA5;
     gap: 15px;
   }
   .lotty{
- 
+    /* width: 100px; */
     height: 65%;
   }
   .container{
@@ -143,14 +138,14 @@ color: #45EBA5;
     
   }
   
-  
+ 
 }
 
 
 
 @media only screen and (max-width:768px){
 .hero{
-  /* padding-top: 20px; */
+
   margin-bottom: 80px;
   
   height: 120vh;
@@ -174,7 +169,7 @@ color: #45EBA5;
   display: flex;
   align-items: center;
   gap: 5px;
-
+  
 
 }
 .title ,.subtitle{
@@ -185,22 +180,21 @@ color: #45EBA5;
   padding: 10px;
   text-align: center;
 }
-
+.heroImage{
+  width: 300px;
+  height: 200px;
+}
 
 .lotty{
- 
+  
   margin: 0 auto;
 }
-.image{
-  height: 65%;
-  width: 65%;
-}
+
 }
 
 @media only screen and (max-width:500px){
   .right{
     flex: 3;
- 
   }
   .btn{
   font-size: 12px;
@@ -208,8 +202,8 @@ color: #45EBA5;
   }
  
   .hero{
-    height: 130vh;
-    
+    height: 140vh;
+    margin-bottom: 100px;
   }
   .title{
     font-size: 40px;
@@ -227,14 +221,6 @@ color: #45EBA5;
   width: 52%;
   height: 52%;
 }
-.left{
-  gap: 30px;
-}
-.lotty{
- 
-  height: 65%;
-}
-
 
 }
 
@@ -244,6 +230,7 @@ color: #45EBA5;
     .hero{
       height: 320vh;
       margin-bottom: 200px;
+      
     }
   }
 }
