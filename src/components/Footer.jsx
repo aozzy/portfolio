@@ -14,6 +14,10 @@ function Footer() {
       <img className={classes.icon}  src="./images/ln.png" alt="linkedin"/>     
       <a href='https://linkedin.com/in/abdi-osman-000' target="_blank">www.linkedin.com/in/abdi-osman-000</a>
       </div>
+      <div className={classes.copyRight}>
+      
+      <span>&copy;2023 Abdi Osman</span>
+      </div>
        </div>
       </div>
     </React.Fragment>

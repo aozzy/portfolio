@@ -15,14 +15,7 @@ font-family: 'Open Sans', sans-serif;
  background-size: cover;  
 
 }
-@-moz-document url-prefix() { 
-  .title {
-    
-  }
-  .hero{
-    /* background-color: #45EBA5; */
-  }
-}
+
 
 .container{
  
@@ -115,7 +108,12 @@ color: #45EBA5;
   color: #000;
  
 }
+.vertical-timeline-element--education{
 
+}
+.vertical-timeline-element-content .vertical-timeline-element-date{
+  color: #45EBA5;
+}
 @media only screen and (max-width:1300px){
   .title{
     font-size: 50px;
@@ -137,7 +135,7 @@ color: #45EBA5;
   }
   .lotty{
     /* width: 100px; */
-    height: 65%;
+    height: 85%;
   }
   .container{
     flex-direction: column;
@@ -180,7 +178,7 @@ color: #45EBA5;
   display: flex;
   align-items: center;
   gap: 5px;
-  /* justify-content: center; */
+
 
 }
 .title ,.subtitle{
@@ -197,27 +195,28 @@ color: #45EBA5;
 }
 
 .lotty{
-  
+ 
   margin: 0 auto;
 }
-
+.image{
+  height: 65%;
+  width: 65%;
+}
 }
 
 @media only screen and (max-width:500px){
   .right{
     flex: 3;
+ 
   }
   .btn{
   font-size: 12px;
  
   }
-  /* .lotty{
-    height: 50%;
-    width: 50%;
-  } */
+ 
   .hero{
-    height: 140vh;
-    margin-bottom: 100px;
+    height: 130vh;
+    
   }
   .title{
     font-size: 40px;
@@ -235,14 +234,17 @@ color: #45EBA5;
   width: 52%;
   height: 52%;
 }
+.left{
+  gap: 30px;
+}
 
 }
 
 
-@media only screen and (max-width:395px){
+@media only screen and (max-width:397px){
   @-moz-document url-prefix(){
     .hero{
-      height: 280vh;
+      height: 320vh;
       margin-bottom: 200px;
     }
   }

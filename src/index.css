@@ -189,10 +189,18 @@ transition: 350ms;
 
 
 
-
-
+ .vertical-timeline-element-date{
+  color: #45EBA5;
+}
 
 
 html {
   background: #000;
+}
+
+
+@media only screen and (max-width:1169px){
+  .vertical-timeline-element-date{
+    color: #000;
+  }
 }
